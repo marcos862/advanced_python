@@ -4,7 +4,7 @@
 
 In this final project we will be using the dataset that is from 'Customer Personality Analysis' from kaggle that can be found here: https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis/
 
-The project was divided in 4 stages:
+The project was divided in 5 stages:
 
 ### 1. Univariate analysis
 
@@ -29,11 +29,15 @@ The models to train will be:
 - Random Forest
 - Naive Bayes
 
-### 4a. Create an API to predict customer cluster
+### 4. Multivariate Analysis
+
+This type of analysis is done to try to understand the classification of the customers. Now that dataset was label according to the clusters found by Kmeans, we will proceed to do the Multivariate Analysis to see if the classification gives a better idea of our customers.
+
+### 5a. Create an API to predict customer cluster
 
 Final stage will be to create an API that will have as input all different original parameters as input (Birth Date, Kidhome, teenhome, income, NumPurchases, etc) and the output of the API will be the prediction of the customer cluster
 
-### 4b. Using Streamlit to predict customer cluster
+### 5b. Using Streamlit to predict customer cluster
 
 Another way to predict the customer cluster will be with a web page running streamlit where the user will need to enter all different parameters to predict the customer cluster
 
