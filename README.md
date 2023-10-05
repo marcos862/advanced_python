@@ -44,6 +44,6 @@ Another way to predict the customer cluster will be with a web page running stre
 
 ----------------------------------------------------------
 
-Stages from 1 to 3 will be coded in a jupyter notebook to show in a better way the steps done to achieve the result.
+Stages from 1 to 4 will be coded in a jupyter notebook to show in a better way the steps done to achieve the result.
 
-Stage 4a and 4b will be done in python modules that will required to run a web server to make it work.
+Stage 5a and 5b will be done in python modules that will required to run a web server to make it work.
